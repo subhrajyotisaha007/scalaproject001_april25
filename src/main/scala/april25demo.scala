@@ -6,7 +6,7 @@ object april25demo {
 
 //    print("hello World")
     val a = 5
-//    val a:Int= 5
+    val k:Int= 5
 
     var b = 80
     var d = 90
